@@ -1,6 +1,6 @@
-const logger = (argument) => {
+const logger = (arg) => {
   const num = 3 + 4;
-  console.log(argument);
+  console.log(arg);
 };
 
 logger("hello!");
