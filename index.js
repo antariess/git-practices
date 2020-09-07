@@ -1,5 +1,5 @@
-const logger = (argument) => {
-  console.log(argument);
+const logger = (arg) => {
+  console.log(arg);
 };
 
 logger("hello!");
